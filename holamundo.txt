@@ -1,3 +1,0 @@
-Hola desde Linux
-Soy Jose Alberto Perez Torres
-Desde la terminal de Ubuntu server
